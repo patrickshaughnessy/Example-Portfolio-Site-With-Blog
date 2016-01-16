@@ -2,6 +2,6 @@
 
 angular
   .module('app')
-  .controller('blogCtrl', function($scope, $timeout){
-
+  .controller('blogCtrl', function($scope){
+      $scope.posts = posts;
   })
