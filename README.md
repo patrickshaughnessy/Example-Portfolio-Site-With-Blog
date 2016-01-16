@@ -10,7 +10,7 @@ To follow along with my blog post, just clone this repo and you're good to go.
 If you want to see the finished product, clone this repo and
 checkout the final branch
 
-    git checkout origin final
+    git checkout final
     npm run setup
     npm start
 
