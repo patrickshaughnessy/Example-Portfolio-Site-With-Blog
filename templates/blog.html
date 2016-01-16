@@ -2,8 +2,8 @@
   <div class="row">
     <div class="col-xs-12 col-sm-8">
       <div class="row">
-        <div class="col-xs-12">
-          posts go here
+        <div class="col-xs-12" ng-repeat="post in posts">
+          <blog-post info={{post}}></blog-post>
         </div>
       </div>
     </div>

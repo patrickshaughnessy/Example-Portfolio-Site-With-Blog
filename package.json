@@ -1,0 +1,23 @@
+{
+  "name": "how-to-integrate-a-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickshaughnessy/Example-Portfolio-Site-With-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickshaughnessy/Example-Portfolio-Site-With-Blog/issues"
+  },
+  "homepage": "https://github.com/patrickshaughnessy/Example-Portfolio-Site-With-Blog#readme",
+  "dependencies": {
+    "concat-files": "^0.1.0",
+    "markdown-parse": "^0.2.1"
+  }
+}
